@@ -2,9 +2,9 @@
 site phpEmpregos.com
 
 ### Contributors
-* [Mathias Grimm](https://github.com/mathiasgrimm)
-* [Hudson Dunice](http://github.com/dunice)
-* [Eder Taveira](http://github.com/edertaveira)
+* [Mathias Grimm](https://github.com/mathiasgrimm) - Brasil
+* [Hudson Dunice](http://github.com/dunice) - Brasil
+* [Eder Taveira](http://github.com/edertaveira) - Brasil
 
 
 # CONVITE
