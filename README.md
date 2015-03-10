@@ -2,6 +2,5 @@
 site phpEmpregos.com
 
 ### Contributors
-[Hudson Dunice]
-
-[Hudson Dunice]:http://github.com/dunice/
+* [Mathias Grimm](https://github.com/mathiasgrimm)
+* [Hudson Dunice](http://github.com/dunice)
