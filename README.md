@@ -5,6 +5,7 @@ site phpEmpregos.com
 * [Mathias Grimm](https://github.com/mathiasgrimm) - Brasil
 * [Hudson Dunice](http://github.com/dunice) - Brasil
 * [Eder Taveira](http://github.com/edertaveira) - Brasil
+* [Marcelo Everson](http://github.com/marceloeverson) - Brasil
 
 
 # CONVITE
