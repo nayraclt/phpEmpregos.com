@@ -10,6 +10,7 @@ site phpEmpregos.com
 * [David Lima](http://github.com/davelima) - Brasil
 * [Vanildo Souto Mangueira](http://github.com/vanildosouto) - Brasil
 * [Vinicius Cainelli](http://github.com/vicainelli) - Brasil
+* [Diego França](https://github.com/dtgfranca) - Brasil
 
 
 # CONVITE
