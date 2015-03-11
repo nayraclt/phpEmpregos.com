@@ -11,7 +11,7 @@ site phpEmpregos.com
 * [Vanildo Souto Mangueira](http://github.com/vanildosouto) - Brasil
 * [Vinicius Cainelli](http://github.com/vicainelli) - Brasil
 * [Diego França](https://github.com/dtgfranca) - Brasil
-
+* [Thomás Piedade](https://github.com/thomaspiedade) - Brasil
 
 # CONVITE
 
