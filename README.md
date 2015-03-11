@@ -7,6 +7,7 @@ site phpEmpregos.com
 * [Eder Taveira](http://github.com/edertaveira) - Brasil
 * [Marcelo Everson](http://github.com/marceloeverson) - Brasil
 * [Anísio Neto](http://github.com/netohunter) - Brasil
+* [Vanildo Souto Mangueira](http://github.com/vanildosouto) - Brasil
 
 
 # CONVITE
