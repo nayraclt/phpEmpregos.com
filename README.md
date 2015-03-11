@@ -8,6 +8,7 @@ site phpEmpregos.com
 * [Marcelo Everson](http://github.com/marceloeverson) - Brasil
 * [Anísio Neto](http://github.com/netohunter) - Brasil
 * [Vanildo Souto Mangueira](http://github.com/vanildosouto) - Brasil
+* [Vinicius Cainelli](http://github.com/vicainelli) - Brasil
 
 
 # CONVITE
